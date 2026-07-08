@@ -130,8 +130,6 @@ graph TD
 
 ## 🎨 デモ画面イメージ（将来的な拡張構想）
 
-ハッカソン発表で提示する、将来的な「えげつない価値」を示すUIモックアップイメージです。
-
 ### ① BigQueryを用いた、地域のスタッフの不満・不安の時系列解析ダッシュボード
 LINE相談から得た感情ログをBigQueryで集計し、Looker StudioなどのBIツールでリアルタイム可視化したダッシュボード画面です。
 ![時系列解析ダッシュボード](presentation_assets/staff_sentiment_dashboard.png)
